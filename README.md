@@ -1,3 +1,4 @@
 # Esp tests
 
-## slot machine/vending
+- slot machine/vending
+- chrome dino game
