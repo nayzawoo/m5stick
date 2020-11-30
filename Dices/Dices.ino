@@ -42,7 +42,6 @@ void setup(void) {
 
 void loop() {
 
-
   while(1) {
     M5.IMU.getAccelData(&accX,&accY,&accZ);
     if (accX > 1.5 ||  accY > 1.5 ) {

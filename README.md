@@ -10,7 +10,7 @@ pio run --target upload
 - Conway'sGameOfLife([View](Game_Of_Life))
 - LovyanGFX - JP ([Ball Maze](GFX_Ball_Maze), [Clock](GFX_Clock_Sample))
 - Flappy Bird([View](Flappy_Bird))
-- Dices([View](Dices))
+- Dices([View](Dices), [Crack Screen](Crack_Screen))
 - LED Blink([View](Blink))
 
 ### Pre Req
