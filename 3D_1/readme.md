@@ -2,4 +2,4 @@
 
 Source: https://github.com/ebicochineal/E512W3D
 
-![Ouput](out.jpg)
+![Ouput](out.gif)
