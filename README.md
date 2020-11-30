@@ -4,6 +4,7 @@
 platformio run --target upload
 ```
 
-- slot machine/vending
+- slot machine/vending(/Slot_Machine)
 - chrome dino game
 - 3D Render
+- Conway'sGameOfLife
