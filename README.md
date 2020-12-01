@@ -12,6 +12,7 @@ pio run --target upload
 - Flappy Bird([View](Flappy_Bird))
 - Dices([View](Dices), [Crack Screen](Crack_Screen))
 - LED Blink([View](Blink))
+- Simple Web Server - Toggle LED ([View](Simple_Web_Server))
 
 ### Pre Req
 
