@@ -1,4 +1,4 @@
-# Esp tests
+### Esp tests
 
 ```
 pio run --target upload
@@ -17,3 +17,21 @@ pio run --target upload
 ### Pre Req
 
 - image to date(https://lang-ship.com/tools/image2data/)
+
+
+### Libraries
+- https://github.com/BenBamboozled/Samsung-Smart-Remote
+- https://github.com/crankyoldgit/IRremoteESP8266
+- https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/storage/spiffs.html
+
+
+### Docs - M5Stick
+- https://docs.m5stack.com/en/core/m5stickc_plus
+
+
+### Samsung TV Codes
+- https://github.com/BenBamboozled/Samsung-Smart-Remote
+
+
+### Libraries
+- https://github.com/crankyoldgit/IRremoteESP8266
