@@ -14,7 +14,7 @@
 
 ### Pre Req
 
-- image to date(https://lang-ship.com/tools/image2data/)
+- image to data(https://lang-ship.com/tools/image2data/)
 
 
 ### Libraries
