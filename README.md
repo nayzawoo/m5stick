@@ -1,8 +1,6 @@
 ### Esp tests
 
-```
-pio run --target upload
-```
+> pio run --target upload
 
 - Slot machine/vending([View](Slot_Machine))
 - Chrome dino game([View](Dino_Game))
