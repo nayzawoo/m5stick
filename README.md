@@ -21,6 +21,7 @@
 - https://github.com/BenBamboozled/Samsung-Smart-Remote
 - https://github.com/crankyoldgit/IRremoteESP8266
 - https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/storage/spiffs.html
+- https://github.com/espressif/arduino-esp32?tab=readme-ov-file#documentation
 
 
 ### Docs - M5Stick
